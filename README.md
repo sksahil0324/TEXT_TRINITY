@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TextTrinity: NLP-Powered Text Processing Application
 
 ## Overview
@@ -71,3 +72,6 @@ Sahil Basheer Shaikh
 ## License
 All rights reserved. This project and its source code are proprietary and confidential.
 Unauthorized copying, distribution, or use of this code is strictly prohibited.
+=======
+# TEXT_TRINITY
+>>>>>>> e994b217e47df5ae30188c7b0416bf73a4444443
